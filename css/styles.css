@@ -1,0 +1,30 @@
+#main-b {
+  background-color: #608f9f;
+  color: black;
+}
+
+#menu {
+	color: #19b3e6;
+}
+ 
+.padding {
+  border: 2px solid black;
+  background: #b3b3b3;
+  color: #fff;
+}
+
+.inner-pad {
+  padding: 5px;
+}
+
+.outer-pad {
+  padding-top: 10px;
+  color: black;
+}
+
+.grey-border {
+  border: 5px dotted #b3b3b3;
+  background: #88ff4d;
+  border-radius: 15%;
+
+}

@@ -1,0 +1,22 @@
+{
+  "name": "er3",
+  "version": "1.0.0",
+  "description": "When your work in complete, push up the branch (`git push origin challenge`) and submit the pull request on Github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nss-day-cohort-18/milestone-challenge-single-page-apps-Deanomatic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nss-day-cohort-18/milestone-challenge-single-page-apps-Deanomatic/issues"
+  },
+  "homepage": "https://github.com/nss-day-cohort-18/milestone-challenge-single-page-apps-Deanomatic#readme",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}

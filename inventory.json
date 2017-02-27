@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "make": "Plymoth",
+      "model": "Prowler",
+      "year": "1998",
+      "price": "2000",
+      "description": "Designed to recall the fond memories (if not fantasies) of hot-rodding in the 1950sthe Plymouth Prowler certainly looked the part. Originally appearing as a 1993 concept vehicle, the two-seat Prowler had a 1930s-style roadster body, with a long nose, exposed front suspension components,a bathtub-like passenger compartment and a short, sloping rear end. It looked like no other new car on the road,and that was the point."
+    },
+
+    {
+      "make": "Lincoln",
+      "model": "Continental",
+      "year": "1993",
+      "price": "700",
+      "description": "The fifth generation version of once a proud American luxury vehicle,the Lincoln Continental Mark IV is ugly, slow, lumbering, graceless, and just plain boring."
+    },
+
+    {
+      "make": "FSO",
+      "model": "Polonez",
+      "year": "1991",
+      "price": "200",
+      "description": "The FSO Polonez is considered by many to be one of the most undependable, unstylish cars ever made."
+    },
+
+    {
+      "make": "BMW",
+      "model": "X6",
+      "year": "2009",
+      "price": "8999",
+      "description": "What the hell is this thing? Dubbed by Top Gear's Jeremey Clarkson as 'The Stupidest Car in the World', the BMW X6 doesn't serve a purpose."
+    },
+
+    {
+      "make": "Pontiac",
+      "model": "Aztek",
+      "year": "2001",
+      "price": "9500",
+      "description": "Apart from its recent crappy celebrity, this car is shamefully ironic. The front of the Aztek almost looks as if GM built an SUV, but then decided to scalp the hood of a Pontiac Grand Prix, fix it atop the Aztek like baseball cap and say, 'voila!'"
+    },
+
+    {
+      "make": "1989",
+      "model": "Eagle Premier",
+      "year": "1989",
+      "price": "-3",
+      "description": "You may look at this car and think to yourself, 'that's not that bad'. But what it is that makes this car particular terrible, it's what it is not. "
+    }
+  ]
+
+}
